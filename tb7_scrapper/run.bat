@@ -1,0 +1,1 @@
+scrapy crawl download -o download.json
